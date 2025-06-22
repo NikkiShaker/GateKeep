@@ -1,0 +1,36 @@
+# === Java ===
+*.class
+*.jar
+*.war
+*.ear
+/target/
+/bin/
+*.log
+*.iml
+
+# === IntelliJ IDEA ===
+.idea/
+*.iws
+*.ipr
+*.iml
+
+# === Eclipse ===
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+
+# === VS Code ===
+.vscode/
+
+# === React / Node ===
+node_modules/
+build/
+dist/
+.env
+.DS_Store
+
+# === OS-specific ===
+Thumbs.db
+.DS_Store
